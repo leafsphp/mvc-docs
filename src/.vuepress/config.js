@@ -321,12 +321,12 @@ module.exports = {
           },
           {
             text: 'Codelabs',
-            link: '/codelabs/'
+            link: 'https://codelabs.leafphp.dev'
           },
           {
             text: 'Contribute',
             link: 'https://leafphp.dev/docs/contributing/writing-guide'
-          },
+          }
           // {
           //   text: 'Migration from Leaf 2',
           //   link: '/docs/migration/introduction'
