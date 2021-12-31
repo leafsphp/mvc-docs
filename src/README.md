@@ -5,7 +5,7 @@ heroText: Leaf MVC 3.0
 tagline: A minimal but powerful PHP MVC framework
 actionButtons:
   - text: Get Started
-    link: /docs/introduction/
+    link: /docs/
   - text: GitHub
     link: https://github.com/leafsphp/leafmvc
     extraClass: github grey
