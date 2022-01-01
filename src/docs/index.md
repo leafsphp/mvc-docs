@@ -5,6 +5,8 @@ Leaf MVC is a lightweight and minimal MVC wrapper leaf PHP framework that provid
 
 v3.0 packs in a bunch of fresh functionality, and also features added in [v3](https://leafphp.dev) of the core Leaf package. You can view all these [changes here](/docs/new/).
 
+Also, the lightweight core framework is not always suitable for every use case, which is another reason a scalable setup in the form of Leaf MVC has been created.
+
 ## Why Leaf MVC?
 
 There are a variety of tools and frameworks available to you when building a web application. However, we believe Leaf + MVC is the best choice for building modern, full-stack web applications.
@@ -57,17 +59,17 @@ C:.
 │   ├───models
 │   ├───routes
 │   └───views
-│       ├───assets
-│       │   ├───css
-│       │   ├───images
-│       │   ├───js
-│       │   └───sass
 │       ├───components
 │       └───pages
 │           └───errors
 ├───config
 │   └───command
 ├───public
+│   └───assets
+│       ├───css
+│       ├───images
+│       ├───js
+│       └───sass
 ├───storage
 │   ├───app
 │   │   └───public
