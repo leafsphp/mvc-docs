@@ -202,5 +202,4 @@ return [
     */
     'TOKEN_LIFETIME' => 60 * 60 * 24 * 365
 ];
-
 ```
