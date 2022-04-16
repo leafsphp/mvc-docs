@@ -19,6 +19,7 @@ const sidebar = {
         '/docs/config/env',
         '/docs/config/app',
         '/docs/config/aloe',
+        '/docs/config/database',
         '/docs/config/auth',
         '/docs/config/cors',
         '/docs/config/views',
