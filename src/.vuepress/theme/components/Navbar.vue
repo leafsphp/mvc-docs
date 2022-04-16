@@ -14,7 +14,7 @@
         class="site-name"
         :class="{ 'can-hide': $site.themeConfig.logo }"
       >
-        Leaf MVC&nbsp;<span class="theme-text">3</span>
+        Leaf&nbsp;<span class="theme-text">MVC</span>
       </span>
     </RouterLink>
 
