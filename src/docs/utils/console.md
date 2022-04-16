@@ -138,10 +138,11 @@ $aloe->register([
 
 ```sh
 Available commands:
+  completion     Dump the shell completion script
   example        example command's description
-  help           Displays help for a command
+  help           Display help for a command
   interact       Interact with your application
-  list           Lists commands
+  list           List commands
   serve          Start the leaf development server
  aloe
   aloe:config    Install aloe config
@@ -158,6 +159,7 @@ Available commands:
  db
   db:install     Create new database from .env variables
   db:migrate     Run the database migrations
+  db:reset       Rollback, migrate and seed database
   db:rollback    Rollback all database migrations
   db:seed        Seed the database with records
  env
