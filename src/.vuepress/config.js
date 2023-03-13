@@ -322,7 +322,7 @@ module.exports = {
         items: [
           {
             text: 'Guide',
-            link: '/docs/'
+            link: 'https://leafphp.dev/docs/leafmvc/'
           },
           {
             text: 'Codelabs',
